@@ -1,0 +1,61 @@
+.logo {
+    bottom: -100px;
+    float: left;
+    font-variant: small-caps;
+}
+
+.logo h1 {
+    font-family: Impact;
+    font-size: 50px;
+    color: white;
+    letter-spacing: 0.3px;
+    text-shadow: 0 0 2px black;
+    padding-bottom: 0px;
+    border-bottom: 1px dotted gray;
+    margin: 0px;
+}
+
+.logo > h5 {
+    margin-top: 5px;
+    letter-spacing: 0.5px;
+    font-size: 10px;
+}
+
+.banner {
+    padding-left: 290px;
+    float: right;
+}
+
+nav {
+    border-radius: 5px;
+}
+
+.content {
+    margin: 10px;
+}
+
+.left-content {
+    margin: 10px;
+}
+
+.card {
+    text-align: center;
+    float: left;
+    padding: 0;
+}
+
+.right {
+}
+
+.poly-cart, .panel-body {
+    border-radius: 5px;
+    border: 1px solid #c8cbcf;
+}
+
+.footer {
+    text-align: center;
+    height: 80px;
+    border-radius: 5px;
+    border: 1px solid #c8cbcf;
+    background-color: rgba(0, 0, 0, .03);
+}

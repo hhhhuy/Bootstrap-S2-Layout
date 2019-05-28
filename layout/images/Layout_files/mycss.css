@@ -1,0 +1,29 @@
+.logo {
+    float: left;
+    font-variant: small-caps;
+}
+
+.logo h1 {
+    font-family: Impact;
+    font-size: 40px;
+    color: white;
+    letter-spacing: 0.3px;
+    text-shadow: 0 0 2px black;
+    padding-bottom: 0px;
+    border-bottom: 1px dotted gray;
+    margin: 0px;
+}
+
+.logo > h5 {
+    margin-top: 5px;
+    letter-spacing: 0.5px;
+    font-size: 10px;
+}
+
+.banner {
+    float: right;
+}
+
+nav {
+    border-radius: 5px;
+}
